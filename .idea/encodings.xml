@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../css-demo/maven-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../css-demo/maven-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat-demo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat-demo2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../maven-tomcat/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
